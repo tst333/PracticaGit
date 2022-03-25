@@ -8,7 +8,7 @@ header {
 	padding:10px 0px;
 }
 section {
-	width: 79%;
+	width: 80%;
 	float: left;
 	overflow: auto;
 	padding-bottom: 60px;
@@ -21,7 +21,7 @@ footer {
 	height: 40px;
 	padding:5px 0px;
 	clear: both;
-	background: #d7e0e9;
+	background: rgb(255, 128, 128);
 	text-align: center;
 	color: black;
 }
